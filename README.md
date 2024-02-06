@@ -1,4 +1,4 @@
-# GNOME Linux Dotfiles
+# Arch Linuz GNOME Dotfiles
 
 📂 [Dotfiles](https://github.com/moktavizen/arch-gnome-dotfiles) for my Arch Linux GNOME setup.
 
