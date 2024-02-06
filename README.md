@@ -20,7 +20,3 @@
 9. Fetch: Fastfetch
    - [Mini Version](https://github.com/moktavizen/arch-linux-dotfiles/blob/main/fastfetch-mini.jsonc)
    - [Full Version](https://github.com/moktavizen/arch-linux-dotfiles/blob/main/fastfetch-full.jsonc)
-
-Preview:
-
-![setup preview](setup-preview.webp)
